@@ -1,2 +1,2 @@
 # TODO
-To see the demo , [Link](github.io/TheZhinous/TODO)
+To see the demo , [Link](https://thezhinous.github.io/TODO/)
